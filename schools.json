@@ -1,0 +1,1312 @@
+[
+  {
+    "id": "UHJvZHVjdDoxMDMxMQ==",
+    "name": "MT EDEN NORMAL SCHOOL",
+    "path": "/mt-eden-normal-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMxMw==",
+    "name": "MT ALBERT SCHOOL",
+    "path": "/mt-albert-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMxNA==",
+    "name": "TITIRANGI SCHOOL",
+    "path": "/titirangi-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMxNQ==",
+    "name": "TE ATATU INTERMEDIATE",
+    "path": "/te-atatu-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMxNg==",
+    "name": "MATIPO ROAD SCHOOL",
+    "path": "/matipo-road-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMxNw==",
+    "name": "MASSEY PRIMARY SCHOOL",
+    "path": "/massey-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMxOA==",
+    "name": "GREEN BAY PRIMARY SCHOOL",
+    "path": "/green-bay-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMyMA==",
+    "name": "OREWA BEACH SCHOOL",
+    "path": "/orewa-beach-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMyMg==",
+    "name": "WILLOW PARK SCHOOL",
+    "path": "/willow-park-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMyMw==",
+    "name": "STANMORE BAY SCHOOL",
+    "path": "/stanmore-bay-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMyNQ==",
+    "name": "ARDMORE SCHOOL",
+    "path": "/ardmore-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMyNg==",
+    "name": "ALBANY SCHOOL",
+    "path": "/albany-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMyNw==",
+    "name": "PAPATOETOE WEST SCHOOL",
+    "path": "/papatoetoe-west-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMyOA==",
+    "name": "ALBANY JUNIOR HIGH SCHOOL",
+    "path": "/albany-junior-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMyOQ==",
+    "name": "LEIGH SCHOOL",
+    "path": "/leigh-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMzMA==",
+    "name": "BAYVIEW SCHOOL",
+    "path": "/bayview-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMzMQ==",
+    "name": "BAVERSTOCK OAKS SCHOOL",
+    "path": "/baverstock-oaks-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMzNQ==",
+    "name": "PUKEHOU SCHOOL",
+    "path": "/pukehou-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMzNg==",
+    "name": "KELBURN NORMAL SCHOOL",
+    "path": "/kelburn-normal-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMzNw==",
+    "name": "WESTBURN SCHOOL",
+    "path": "/westburn-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMzOA==",
+    "name": "LEESTON SCHOOL",
+    "path": "/leeston-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDMzOQ==",
+    "name": "WAIMATE CENTENNIAL SCHOOL",
+    "path": "/waimate-centennial-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM0MA==",
+    "name": "PAPARANGI SCHOOL",
+    "path": "/paparangi-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM0MQ==",
+    "name": "WIGRAM PRIMARY SCHOOL - TE PIKI KAHU",
+    "path": "/wigram-primary-school-te-piki-kahu/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM0Mg==",
+    "name": "SOUTHBRIDGE SCHOOL",
+    "path": "/southbridge-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM0Mw==",
+    "name": "CAREW PEEL FOREST SCHOOL",
+    "path": "/carew-peel-forest-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM0NA==",
+    "name": "FERNLEA SCHOOL",
+    "path": "/fernlea-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM0Ng==",
+    "name": "OPAWA SCHOOL",
+    "path": "/opawa-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM0OA==",
+    "name": "SWANNANOA SCHOOL",
+    "path": "/swannanoa-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM0OQ==",
+    "name": "ST THOMAS OF CANTERBURY COLLEGE",
+    "path": "/st-thomas-of-canterbury-college/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM1MA==",
+    "name": "PAREMATA SCHOOL",
+    "path": "/paremata-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM1Mg==",
+    "name": "COTSWOLD M\u0100T\u0100HAE SCHOOL",
+    "path": "/cotswold-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM1NA==",
+    "name": "ASHGROVE SCHOOL",
+    "path": "/ashgrove-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM1OQ==",
+    "name": "DONOVAN PRIMARY SCHOOL",
+    "path": "/donovan-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM2Mw==",
+    "name": "ASHLEY RAKAHURI SCHOOL",
+    "path": "/ashley-rakahuri-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM2NQ==",
+    "name": "NAENAE INTERMEDIATE",
+    "path": "/naenae-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM2Ng==",
+    "name": "KENAKENA SCHOOL",
+    "path": "/kenakena-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM2Nw==",
+    "name": "MT SOMERS SPRINGBURN SCHOOL",
+    "path": "/mt-somers-springburn-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM2OQ==",
+    "name": "MAYFIELD SCHOOL (MID-CANTERBURY)",
+    "path": "/mayfield-school-mid-canterbury/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM3NQ==",
+    "name": "NEWLANDS PRIMARY SCHOOL",
+    "path": "/newlands-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM4Mg==",
+    "name": "PENINSULA PRIMARY SCHOOL",
+    "path": "/peninsula-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM4NA==",
+    "name": "BOMBAY SCHOOL",
+    "path": "/bombay-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM4Nw==",
+    "name": "TORBAY SCHOOL",
+    "path": "/torbay-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM4OA==",
+    "name": "DUNTROON SCHOOL",
+    "path": "/duntroon-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM5MA==",
+    "name": "ILAM SCHOOL",
+    "path": "/ilam-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM5Mg==",
+    "name": "WAITAKIRI PRIMARY SCHOOL",
+    "path": "/waitakiri-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM5Mw==",
+    "name": "PAREAWA BANKS AVENUE SCHOOL",
+    "path": "/pareawa-banks-avenue-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDM5Ng==",
+    "name": "PARAPARAUMU COLLEGE",
+    "path": "/paraparaumu-college/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQwMQ==",
+    "name": "GREENDALE SCHOOL",
+    "path": "/greendale-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQwMg==",
+    "name": "WEST ROLLESTON PRIMARY SCHOOL",
+    "path": "/west-rolleston-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQwNA==",
+    "name": "WEST END TE KURA O MORERE",
+    "path": "/west-end-te-kura-o-morere/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQwNw==",
+    "name": "QUEENSPARK SCHOOL",
+    "path": "/queenspark-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQwOA==",
+    "name": "CHISNALLWOOD INTERMEDIATE",
+    "path": "/chisnallwood-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQwOQ==",
+    "name": "ENNER GLYNN SCHOOL",
+    "path": "/enner-glynn-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQxMA==",
+    "name": "SOUTH HORNBY SCHOOL",
+    "path": "/south-hornby-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQxMw==",
+    "name": "MATAKANA SCHOOL",
+    "path": "/matakana-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQxNQ==",
+    "name": "TE RAEKURA REDCLIFFS SCHOOL",
+    "path": "/te-raekura-redcliffs-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQxNg==",
+    "name": "BELLEVUE SCHOOL (NEWLANDS)",
+    "path": "/bellevue-school-newlands/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQxOA==",
+    "name": "KAIAPOI BOROUGH SCHOOL",
+    "path": "/kaiapoi-borough-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQxOQ==",
+    "name": "EPSOM NORMAL SCHOOL",
+    "path": "/epsom-normal-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQyMA==",
+    "name": "WOODEND SCHOOL",
+    "path": "/woodend-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQyMQ==",
+    "name": "SOUTH WELLINGTON INTERMEDIATE",
+    "path": "/south-wellington-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQyMg==",
+    "name": "TUORA FENDALTON SCHOOL",
+    "path": "/fendalton-open-air-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQyNg==",
+    "name": "PUKETAPU SCHOOL (NEW PLYMOUTH)",
+    "path": "/puketapu-school-new-plymouth/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQyNw==",
+    "name": "TKKM O TOKU MAPIHI MAUREA",
+    "path": "/tkkm-o-toku-mapihi-maurea/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQyOA==",
+    "name": "LEAMINGTON SCHOOL",
+    "path": "/leamington-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQzMw==",
+    "name": "HAWEA FLAT SCHOOL",
+    "path": "/hawea-flat-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQzNw==",
+    "name": "ARROWTOWN SCHOOL",
+    "path": "/arrowtown-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQzOA==",
+    "name": "PAERATA SCHOOL",
+    "path": "/paerata-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQzOQ==",
+    "name": "HUNUA SCHOOL",
+    "path": "/hunua-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ0MQ==",
+    "name": "TRENTHAM SCHOOL",
+    "path": "/trentham-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ0Mg==",
+    "name": "HERETAUNGA COLLEGE",
+    "path": "/heretaunga-college/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ0Ng==",
+    "name": "AIDANFIELD CHRISTIAN SCHOOL",
+    "path": "/aidanfield-christian-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ0Nw==",
+    "name": "HALSWELL SCHOOL",
+    "path": "/halswell-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ0OA==",
+    "name": "VERRAN PRIMARY SCHOOL",
+    "path": "/verran-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ1Mg==",
+    "name": "GRANTLEA DOWNS SCHOOL",
+    "path": "/grantlea-downs-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ2Mw==",
+    "name": "NEW WINDSOR SCHOOL",
+    "path": "/new-windsor-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ2NA==",
+    "name": "RIMU SCHOOL",
+    "path": "/rimu-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ3Mg==",
+    "name": "MERCURY BAY AREA SCHOOL",
+    "path": "/mercury-bay-area-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ3NA==",
+    "name": "HEATON NORMAL INTERMEDIATE",
+    "path": "/heaton-normal-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ3NQ==",
+    "name": "FRANKTON SCHOOL",
+    "path": "/frankton-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ3Ng==",
+    "name": "TUAHIWI SCHOOL",
+    "path": "/tuahiwi-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ3Nw==",
+    "name": "HUTT INTERMEDIATE",
+    "path": "/hutt-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ3OA==",
+    "name": "WAIKOUAITI SCHOOL",
+    "path": "/waikouaiti-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ4MQ==",
+    "name": "BECKENHAM TE KURA O P\u016aROTO",
+    "path": "/beckenham-te-kura-o-puroto/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ4Mw==",
+    "name": "HOON HAY SCHOOL",
+    "path": "/hoon-hay-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ4NQ==",
+    "name": "AVONHEAD SCHOOL",
+    "path": "/avonhead-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ4Nw==",
+    "name": "REMARKABLES PRIMARY SCHOOL",
+    "path": "/remarkables-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ4OA==",
+    "name": "ROLLESTON CHRISTIAN SCHOOL",
+    "path": "/rolleston-christian-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ4OQ==",
+    "name": "CROFTON DOWNS PRIMARY SCHOOL",
+    "path": "/crofton-downs-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDQ5Mg==",
+    "name": "SEATOUN SCHOOL",
+    "path": "/seatoun-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUwMQ==",
+    "name": "RANZAU SCHOOL",
+    "path": "/ranzau-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUwMg==",
+    "name": "ST MARKS SCHOOL (CHRISTCHCH)",
+    "path": "/st-marks-school-christchch/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUwNQ==",
+    "name": "PUKEKOHE HIGH SCHOOL",
+    "path": "/pukekohe-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUwNg==",
+    "name": "HAMPTON HILL SCHOOL",
+    "path": "/hampton-hill-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUwNw==",
+    "name": "CHURTON PARK SCHOOL",
+    "path": "/churton-park-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUwOA==",
+    "name": "ARARIRA SPRINGS PRIMARY",
+    "path": "/ararira-springs-primary/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUxMA==",
+    "name": "OXFORD CRESCENT SCHOOL",
+    "path": "/oxford-crescent-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUxMQ==",
+    "name": "RAUMATI SOUTH SCHOOL",
+    "path": "/raumati-south-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUyMA==",
+    "name": "WEST EYRETON SCHOOL",
+    "path": "/west-eyreton-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUyMg==",
+    "name": "MILLER AVENUE SCHOOL",
+    "path": "/miller-avenue-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUyMw==",
+    "name": "STANLEY AVENUE SCHOOL",
+    "path": "/stanley-avenue-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUyNA==",
+    "name": "HAMPSTEAD SCHOOL",
+    "path": "/hampstead-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUyOA==",
+    "name": "SHIRLEY PRIMARY SCHOOL",
+    "path": "/shirley-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUzMw==",
+    "name": "FAIRFIELD SCHOOL (LEVIN)",
+    "path": "/fairfield-school-levin/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUzNA==",
+    "name": "MERRIN SCHOOL",
+    "path": "/merrin-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUzNQ==",
+    "name": "TAI TAPU SCHOOL",
+    "path": "/tai-tapu-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUzNg==",
+    "name": "WOODBURY SCHOOL",
+    "path": "/woodbury-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUzNw==",
+    "name": "CHANEL COLLEGE",
+    "path": "/chanel-college/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDUzOQ==",
+    "name": "DEVON INTERMEDIATE",
+    "path": "/devon-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU0MA==",
+    "name": "ST BRENDANS SCHOOL (HERETAUNGA)",
+    "path": "/st-brendans-school-heretaunga/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU0NA==",
+    "name": "COASTAL TARANAKI SCHOOL",
+    "path": "/coastal-taranaki-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU0NQ==",
+    "name": "MAMAKU SCHOOL",
+    "path": "/mamaku-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU0OA==",
+    "name": "ASHBURTON BOROUGH SCHOOL",
+    "path": "/ashburton-borough-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU0OQ==",
+    "name": "WAVERLEY PARK SCHOOL",
+    "path": "/waverley-park-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU1Mw==",
+    "name": "GERALDINE PRIMARY SCHOOL",
+    "path": "/geraldine-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU1NA==",
+    "name": "RIDGWAY SCHOOL",
+    "path": "/ridgway-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU1NQ==",
+    "name": "STRATFORD PRIMARY SCHOOL",
+    "path": "/stratford-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU1Ng==",
+    "name": "CASEBROOK INTERMEDIATE",
+    "path": "/casebrook-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU1OQ==",
+    "name": "SHEFFIELD PRIMARY SCHOOL",
+    "path": "/sheffield-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU2MA==",
+    "name": "WHANGANUI INTERMEDIATE",
+    "path": "/whanganui-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU3OQ==",
+    "name": "WARKWORTH SCHOOL",
+    "path": "/warkworth-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU4NQ==",
+    "name": "KEITH STREET SCHOOL",
+    "path": "/keith-street-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU5Mw==",
+    "name": "WINDY RIDGE SCHOOL",
+    "path": "/windy-ridge-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDU5NA==",
+    "name": "THORNDON SCHOOL",
+    "path": "/thorndon-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDYyMg==",
+    "name": "SOUTHCITY CHRISTIAN SCHOOL",
+    "path": "/southcity-christian-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDYyNQ==",
+    "name": "PORT CHALMERS SCHOOL",
+    "path": "/port-chalmers-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDYyNg==",
+    "name": "VALLEY SCHOOL",
+    "path": "/valley-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDYzNw==",
+    "name": "LAKE REREWHAKAAITU SCHOOL",
+    "path": "/lake-rerewhakaaitu-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDYzOA==",
+    "name": "DORIE SCHOOL",
+    "path": "/dorie-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDYzOQ==",
+    "name": "WANAKA PRIMARY SCHOOL",
+    "path": "/wanaka-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDY0MA==",
+    "name": "WAITAKERE SEVENTH DAY ADVENTIST SCHOOL",
+    "path": "/waitakere-seventh-day-adventist-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDY0Mg==",
+    "name": "KAIKOHE CHRISTIAN SCHOOL",
+    "path": "/kaikohe-christian-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDgwOQ==",
+    "name": "CLEARVIEW PRIMARY",
+    "path": "/clearview-primary/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDg1MA==",
+    "name": "MANUKORIHI INTERMEDIATE",
+    "path": "/manukorihi-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDg1MQ==",
+    "name": "MAKARA MODEL SCHOOL",
+    "path": "/makara-model-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDg1Mg==",
+    "name": "ISLEWORTH SCHOOL",
+    "path": "/isleworth-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDg1NQ==",
+    "name": "REDWOOD SCHOOL (CHRISTCHURCH)",
+    "path": "/redwood-school-christchurch/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDg1Ng==",
+    "name": "AO TAWHITI UNLIMITED DISCOVERY",
+    "path": "/ao-tawhiti-unlimited-discovery/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDg3Mg==",
+    "name": "ST PATRICK'S COLLEGE (SILVERSTREAM)",
+    "path": "/st-patricks-college-silverstream/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDg4Mg==",
+    "name": "GLENFIELD COLLEGE",
+    "path": "/glenfield-college/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDg4OQ==",
+    "name": "LOGAN PARK HIGH SCHOOL",
+    "path": "/logan-park-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDg5Mw==",
+    "name": "WAIMATE HIGH SCHOOL",
+    "path": "/waimate-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDg5Ng==",
+    "name": "ROTORUA LAKES HIGH SCHOOL",
+    "path": "/rotorua-lakes-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDkwMg==",
+    "name": "RAROA NORMAL INTERMEDIATE",
+    "path": "/raroa-normal-intermediate-1/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDkwMw==",
+    "name": "BALMORAL SCHOOL (AUCKLAND)",
+    "path": "/balmoral-school-auckland/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDkxNQ==",
+    "name": "WELLINGTON HIGH SCHOOL",
+    "path": "/wellington-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDkxNw==",
+    "name": "REREMOANA PRIMARY SCHOOL",
+    "path": "/reremoana-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDkzMQ==",
+    "name": "WALLACETOWN SCHOOL",
+    "path": "/wallacetown-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDkzNA==",
+    "name": "NAYLAND PRIMARY SCHOOL",
+    "path": "/nayland-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDkzNQ==",
+    "name": "MAIDSTONE INTERMEDIATE",
+    "path": "/maidstone-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDkzNg==",
+    "name": "GISBORNE GIRLS HIGH SCHOOL",
+    "path": "/gisborne-girls-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDkzNw==",
+    "name": "SACRED HEART COLLEGE (LOWER HUTT)",
+    "path": "/sacred-heart-college-lower-hutt/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk0Mw==",
+    "name": "PATUMAHOE PRIMARY SCHOOL",
+    "path": "/patumahoe-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk0OQ==",
+    "name": "RIVERTON SCHOOL",
+    "path": "/riverton-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk1MA==",
+    "name": "KARORI NORMAL SCHOOL",
+    "path": "/karori-normal-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk1MQ==",
+    "name": "CARTERTON SCHOOL",
+    "path": "/carterton-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk1NA==",
+    "name": "ST ANNE'S SCHOOL (WOOLSTON)",
+    "path": "/st-annes-school-woolston/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk1NQ==",
+    "name": "WEEDONS SCHOOL",
+    "path": "/weedons-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk1Nw==",
+    "name": "TARGET ROAD SCHOOL",
+    "path": "/target-road-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk2NQ==",
+    "name": "OHOPE BEACH SCHOOL",
+    "path": "/ohope-beach-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk2Ng==",
+    "name": "HEATHCOTE VALLEY SCHOOL",
+    "path": "/heathcote-valley-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk2OA==",
+    "name": "PUKEATUA PRIMARY SCHOOL (WAINUIOMATA)",
+    "path": "/pukeatua-primary-school-wainuiomata/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMDk5NQ==",
+    "name": "MAUNGATAPERE SCHOOL",
+    "path": "/maungatapere-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTAyNw==",
+    "name": "OTAUA SCHOOL",
+    "path": "/otaua-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTAzMQ==",
+    "name": "HARVEST CHRISTIAN SCHOOL",
+    "path": "/harvest-christian-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTAzNA==",
+    "name": "HAEATA COMMUNITY CAMPUS",
+    "path": "/haeata-community-campus/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTA0Nw==",
+    "name": "AWAPUNI SCHOOL (P.NORTH)",
+    "path": "/awapuni-school-p-north/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTA1MA==",
+    "name": "KOKOPU SCHOOL",
+    "path": "/kokopu-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTEwMg==",
+    "name": "ELMWOOD NORMAL SCHOOL",
+    "path": "/elmwood-normal-school-1/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTEwNw==",
+    "name": "LINCOLN PRIMARY SCHOOL",
+    "path": "/lincoln-primary-school-1/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTEyMw==",
+    "name": "TE ROHUTU WHIO",
+    "path": "/te-rohutu-whio/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI1MQ==",
+    "name": "WOODLEIGH SCHOOL",
+    "path": "/woodleigh-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI3MA==",
+    "name": "OAKURA SCHOOL",
+    "path": "/oakura-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI3MQ==",
+    "name": "POROUTAWHAO SCHOOL",
+    "path": "/poroutawhao-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI3Mw==",
+    "name": "KAIWAKA SCHOOL",
+    "path": "/kaiwaka-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI3NA==",
+    "name": "TE KURA WHAKATIPU O KAWARAU",
+    "path": "/te-kura-whakatipu-o-kawarau/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI3NQ==",
+    "name": "TITAHI BAY INTERMEDIATE",
+    "path": "/titahi-bay-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI3Ng==",
+    "name": "TARRAS SCHOOL",
+    "path": "/tarras-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI3Nw==",
+    "name": "BROOMFIELD SCHOOL",
+    "path": "/broomfield-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI3OQ==",
+    "name": "KINGSVIEW SCHOOL",
+    "path": "/kingsview-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI4MQ==",
+    "name": "BALMACEWEN INTERMEDIATE",
+    "path": "/balmacewen-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI4Mg==",
+    "name": "WHAKATANE HIGH SCHOOL",
+    "path": "/whakatane-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI4NQ==",
+    "name": "TE KURA WAENGA O TIROHANGA",
+    "path": "/te-kura-waenga-o-tirohanga/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI4OA==",
+    "name": "WALTON SCHOOL",
+    "path": "/walton-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI4OQ==",
+    "name": "KAITOKE SCHOOL WANGANUI",
+    "path": "/kaitoke-school-wanganui/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI5MQ==",
+    "name": "NEWLANDS INTERMEDIATE",
+    "path": "/newlands-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI5Mg==",
+    "name": "MATANGI SCHOOL",
+    "path": "/matangi-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI5Mw==",
+    "name": "KILBIRNIE SCHOOL",
+    "path": "/kilbirnie-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI5NA==",
+    "name": "CHRIST THE KING SCHOOL (BURNSIDE)",
+    "path": "/christ-the-king-school-burnside/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI5NQ==",
+    "name": "TAWA INTERMEDIATE",
+    "path": "/tawa-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI5Nw==",
+    "name": "OXFORD AREA SCHOOL",
+    "path": "/oxford-area-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI5OA==",
+    "name": "PAKIRI SCHOOL",
+    "path": "/pakiri-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTI5OQ==",
+    "name": "MARIAN CATHOLIC SCHOOL (HAMILTON)",
+    "path": "/marian-catholic-school-hamilton/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMwMA==",
+    "name": "ARARIMU SCHOOL",
+    "path": "/ararimu-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMwMQ==",
+    "name": "ARAHOE SCHOOL",
+    "path": "/arahoe-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMxMA==",
+    "name": "PARAPARAUMU SCHOOL",
+    "path": "/paraparaumu-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMxNQ==",
+    "name": "MANGOREI SCHOOL",
+    "path": "/mangorei-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMxOA==",
+    "name": "NAENAE SCHOOL",
+    "path": "/naenae-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMxOQ==",
+    "name": "QUEENSTOWN PRIMARY SCHOOL",
+    "path": "/queenstown-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMyMA==",
+    "name": "KERERU SCHOOL",
+    "path": "/kereru-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMyMw==",
+    "name": "RATA STREET SCHOOL",
+    "path": "/rata-street-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMyNA==",
+    "name": "WHANGAREI GIRLS HIGH SCHOOL",
+    "path": "/whangarei-girls-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMyNQ==",
+    "name": "OTAMATEA HIGH SCHOOL",
+    "path": "/otamatea-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMyNg==",
+    "name": "PAEKAKARIKI SCHOOL",
+    "path": "/paekakariki-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTMyOA==",
+    "name": "KOROKORO SCHOOL",
+    "path": "/korokoro-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTM0Ng==",
+    "name": "KAPAKAPANUI SCHOOL",
+    "path": "/kapakapanui-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTM1MQ==",
+    "name": "ST JOSEPH'S SCHOOL ORAKEI",
+    "path": "/st-josephs-school-orakei/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTM1OA==",
+    "name": "MOSSTON SCHOOL",
+    "path": "/mosston-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTM2Mg==",
+    "name": "PUKEKOHE EAST SCHOOL",
+    "path": "/pukekohe-east-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTM4Mg==",
+    "name": "KAURIHOHORE SCHOOL",
+    "path": "/kaurihohore-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTM4OQ==",
+    "name": "WHAKATANE S D A SCHOOL",
+    "path": "/whakatane-s-d-a-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTM5MA==",
+    "name": "WAITUNA CREEK SCHOOL",
+    "path": "/waituna-creek-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTM5NQ==",
+    "name": "WAKANUI SCHOOL",
+    "path": "/wakanui-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTM5OQ==",
+    "name": "MOTUEKA SOUTH SCHOOL",
+    "path": "/motueka-south-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTQxMA==",
+    "name": "CUST SCHOOL",
+    "path": "/cust-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTQxMg==",
+    "name": "SAMUEL MARSDEN COLLEGIATE SCHOOL",
+    "path": "/samuel-marsden-collegiate-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTQxOA==",
+    "name": "APPLEBY SCHOOL",
+    "path": "/appleby-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY2OQ==",
+    "name": "BLOCKHOUSE BAY INTERMEDIATE",
+    "path": "/blockhouse-bay-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY3Ng==",
+    "name": "TE ORAKA SHIRLEY INTERMEDIATE",
+    "path": "/shirley-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY3Nw==",
+    "name": "REMUERA INTERMEDIATE",
+    "path": "/remuera-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY3OA==",
+    "name": "SUNNYVALE SCHOOL",
+    "path": "/sunnyvale-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY4Mg==",
+    "name": "FEILDING INTERMEDIATE",
+    "path": "/feilding-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY4NA==",
+    "name": "MOKOIA SCHOOL",
+    "path": "/mokoia-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY4NQ==",
+    "name": "GOOD SHEPHERD SCHOOL",
+    "path": "/good-shepherd-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY4Ng==",
+    "name": "ST HELIERS SCHOOL",
+    "path": "/st-heliers-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY4OQ==",
+    "name": "MEDBURY SCHOOL",
+    "path": "/medbury-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY5MA==",
+    "name": "WAIPUKURAU SCHOOL",
+    "path": "/waipukurau-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY5MQ==",
+    "name": "ST GEORGES SCHOOL",
+    "path": "/st-georges-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY5NA==",
+    "name": "PAPATOETOE NORTH SCHOOL",
+    "path": "/papatoetoe-north-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY5NQ==",
+    "name": "TE KURA MAORI O NGA TAPUWAE",
+    "path": "/te-kura-maori-o-nga-tapuwae/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTY5Ng==",
+    "name": "OPOHO SCHOOL",
+    "path": "/opoho-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcwMg==",
+    "name": "WITHERLEA SCHOOL",
+    "path": "/witherlea-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcwMw==",
+    "name": "WAKAARANGA SCHOOL",
+    "path": "/wakaaranga-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcwOA==",
+    "name": "DRURY SCHOOL",
+    "path": "/drury-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcxMw==",
+    "name": "PETONE CENTRAL SCHOOL",
+    "path": "/petone-central-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcxNA==",
+    "name": "ST BRIGIDS SCHOOL JOHNSONVILLE",
+    "path": "/st-brigids-school-johnsonville/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcxNQ==",
+    "name": "WAINUIOMATA INTERMEDIATE",
+    "path": "/wainuiomata-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcxNg==",
+    "name": "DISCOVERY SCHOOL",
+    "path": "/discovery-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcxNw==",
+    "name": "SPRINGFIELD SCHOOL",
+    "path": "/springfield-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcxOQ==",
+    "name": "ST MARYS CATHOLIC SCHOOL (PAPAKURA)",
+    "path": "/st-marys-catholic-school-papakura/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcyMw==",
+    "name": "GRACEFIELD SCHOOL",
+    "path": "/gracefield-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcyNA==",
+    "name": "SACRED HEART SCHOOL PETONE",
+    "path": "/sacred-heart-school-petone/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcyNQ==",
+    "name": "WESTERN HEIGHTS HIGH SCHOOL",
+    "path": "/western-heights-high-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcyNg==",
+    "name": "CASTLECLIFF SCHOOL",
+    "path": "/castlecliff-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcyNw==",
+    "name": "TE AWAMUTU PRIMARY SCHOOL",
+    "path": "/te-awamutu-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTcyOQ==",
+    "name": "MARINA VIEW SCHOOL",
+    "path": "/marina-view-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTczMA==",
+    "name": "LEVIN INTERMEDIATE",
+    "path": "/levin-intermediate/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTczMg==",
+    "name": "RAUMATI BEACH SCHOOL",
+    "path": "/raumati-beach-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTczMw==",
+    "name": "WEST END SCHOOL (P NORTH)",
+    "path": "/west-end-school-p-north/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTczNA==",
+    "name": "TUIA BURNSIDE PRIMARY SCHOOL",
+    "path": "/burnside-primary-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTczNQ==",
+    "name": "BROOKBY SCHOOL",
+    "path": "/brookby-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTczNg==",
+    "name": "HOPE SCHOOL",
+    "path": "/hope-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTc0MQ==",
+    "name": "EGMONT VILLAGE SCHOOL",
+    "path": "/egmont-village-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTc0Mg==",
+    "name": "TE HORO SCHOOL (OTAKI)",
+    "path": "/te-horo-school-otaki/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTc0NQ==",
+    "name": "HORIZON SCHOOL",
+    "path": "/horizon-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTc0Ng==",
+    "name": "TKKM O TE ARA WHANUI",
+    "path": "/tkkm-o-te-ara-whanui/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTc1NQ==",
+    "name": "NELSON CHRISTIAN ACADEMY",
+    "path": "/nelson-christian-academy/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTc2Ng==",
+    "name": "TAPORA SCHOOL",
+    "path": "/tapora-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTgwOQ==",
+    "name": "WAIRARAPA COLLEGE",
+    "path": "/wairarapa-college/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTg1Mw==",
+    "name": "RAGLAN AREA SCHOOL",
+    "path": "/raglan-area-school/"
+  },
+  {
+    "id": "UHJvZHVjdDoxMTkxNg==",
+    "name": "TAKAPUNA SCHOOL",
+    "path": "/takapuna-school/"
+  }
+]
